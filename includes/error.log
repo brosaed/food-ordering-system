@@ -1,0 +1,1412 @@
+[28-Apr-2025 09:08:20 Europe/Berlin] Order processing error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'customer_email' in 'field list'
+[28-Apr-2025 09:08:36 Europe/Berlin] PHP Warning:  Undefined variable $discountAmount in C:\xampp\htdocs\food-ordering-system\checkout.php on line 282
+[28-Apr-2025 09:08:36 Europe/Berlin] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\food-ordering-system\checkout.php on line 282
+[28-Apr-2025 09:08:36 Europe/Berlin] PHP Warning:  Undefined variable $discountAmount in C:\xampp\htdocs\food-ordering-system\checkout.php on line 286
+[28-Apr-2025 09:10:08 Europe/Berlin] PHP Warning:  Undefined variable $discountAmount in C:\xampp\htdocs\food-ordering-system\checkout.php on line 282
+[28-Apr-2025 09:10:08 Europe/Berlin] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\food-ordering-system\checkout.php on line 282
+[28-Apr-2025 09:10:08 Europe/Berlin] PHP Warning:  Undefined variable $discountAmount in C:\xampp\htdocs\food-ordering-system\checkout.php on line 286
+[28-Apr-2025 09:18:07 Europe/Berlin] PHP Warning:  Undefined variable $discountAmount in C:\xampp\htdocs\food-ordering-system\checkout.php on line 282
+[28-Apr-2025 09:18:07 Europe/Berlin] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\food-ordering-system\checkout.php on line 282
+[28-Apr-2025 09:18:07 Europe/Berlin] PHP Warning:  Undefined variable $discountAmount in C:\xampp\htdocs\food-ordering-system\checkout.php on line 286
+[28-Apr-2025 09:18:37 Europe/Berlin] PHP Warning:  Undefined variable $discountAmount in C:\xampp\htdocs\food-ordering-system\checkout.php on line 282
+[28-Apr-2025 09:18:37 Europe/Berlin] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\food-ordering-system\checkout.php on line 282
+[28-Apr-2025 09:18:37 Europe/Berlin] PHP Warning:  Undefined variable $discountAmount in C:\xampp\htdocs\food-ordering-system\checkout.php on line 286
+[28-Apr-2025 09:18:37 Europe/Berlin] PHP Warning:  Undefined variable $discountAmount in C:\xampp\htdocs\food-ordering-system\checkout.php on line 282
+[28-Apr-2025 09:18:37 Europe/Berlin] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\food-ordering-system\checkout.php on line 282
+[28-Apr-2025 09:18:37 Europe/Berlin] PHP Warning:  Undefined variable $discountAmount in C:\xampp\htdocs\food-ordering-system\checkout.php on line 286
+[28-Apr-2025 11:43:51 Europe/Berlin] PHP Warning:  Undefined variable $discountAmount in C:\xampp\htdocs\food-ordering-system\checkout.php on line 282
+[28-Apr-2025 11:43:51 Europe/Berlin] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\food-ordering-system\checkout.php on line 282
+[28-Apr-2025 11:43:51 Europe/Berlin] PHP Warning:  Undefined variable $discountAmount in C:\xampp\htdocs\food-ordering-system\checkout.php on line 286
+[28-Apr-2025 11:43:59 Europe/Berlin] PHP Warning:  Undefined variable $discountAmount in C:\xampp\htdocs\food-ordering-system\checkout.php on line 282
+[28-Apr-2025 11:43:59 Europe/Berlin] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\food-ordering-system\checkout.php on line 282
+[28-Apr-2025 11:43:59 Europe/Berlin] PHP Warning:  Undefined variable $discountAmount in C:\xampp\htdocs\food-ordering-system\checkout.php on line 286
+[28-Apr-2025 11:44:11 Europe/Berlin] PHP Warning:  Undefined variable $discountAmount in C:\xampp\htdocs\food-ordering-system\checkout.php on line 282
+[28-Apr-2025 11:44:11 Europe/Berlin] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\food-ordering-system\checkout.php on line 282
+[28-Apr-2025 11:44:11 Europe/Berlin] PHP Warning:  Undefined variable $discountAmount in C:\xampp\htdocs\food-ordering-system\checkout.php on line 286
+[28-Apr-2025 11:44:28 Europe/Berlin] PHP Warning:  Undefined variable $discountAmount in C:\xampp\htdocs\food-ordering-system\checkout.php on line 282
+[28-Apr-2025 11:44:28 Europe/Berlin] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\food-ordering-system\checkout.php on line 282
+[28-Apr-2025 11:44:28 Europe/Berlin] PHP Warning:  Undefined variable $discountAmount in C:\xampp\htdocs\food-ordering-system\checkout.php on line 286
+[28-Apr-2025 11:44:28 Europe/Berlin] PHP Warning:  Undefined variable $discountAmount in C:\xampp\htdocs\food-ordering-system\checkout.php on line 282
+[28-Apr-2025 11:44:28 Europe/Berlin] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\food-ordering-system\checkout.php on line 282
+[28-Apr-2025 11:44:28 Europe/Berlin] PHP Warning:  Undefined variable $discountAmount in C:\xampp\htdocs\food-ordering-system\checkout.php on line 286
+[28-Apr-2025 11:44:43 Europe/Berlin] Order processing error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'customer_email' in 'field list'
+[28-Apr-2025 11:44:43 Europe/Berlin] PHP Warning:  Undefined variable $discountAmount in C:\xampp\htdocs\food-ordering-system\checkout.php on line 282
+[28-Apr-2025 11:44:43 Europe/Berlin] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\food-ordering-system\checkout.php on line 282
+[28-Apr-2025 11:44:43 Europe/Berlin] PHP Warning:  Undefined variable $discountAmount in C:\xampp\htdocs\food-ordering-system\checkout.php on line 286
+[28-Apr-2025 14:52:41 Europe/Berlin] PHP Warning:  Undefined variable $discountAmount in C:\xampp\htdocs\food-ordering-system\checkout.php on line 282
+[28-Apr-2025 14:52:41 Europe/Berlin] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\food-ordering-system\checkout.php on line 282
+[28-Apr-2025 14:52:41 Europe/Berlin] PHP Warning:  Undefined variable $discountAmount in C:\xampp\htdocs\food-ordering-system\checkout.php on line 286
+[28-Apr-2025 15:49:59 Europe/Berlin] PHP Warning:  Undefined variable $discountAmount in C:\xampp\htdocs\food-ordering-system\checkout.php on line 282
+[28-Apr-2025 15:49:59 Europe/Berlin] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\food-ordering-system\checkout.php on line 282
+[28-Apr-2025 15:49:59 Europe/Berlin] PHP Warning:  Undefined variable $discountAmount in C:\xampp\htdocs\food-ordering-system\checkout.php on line 286
+[28-Apr-2025 15:50:38 Europe/Berlin] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\food-ordering-system\admin\dashboard.php on line 103
+[28-Apr-2025 15:50:56 Europe/Berlin] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\food-ordering-system\admin\dashboard.php on line 103
+[29-Apr-2025 14:16:14 Europe/Berlin] PHP Warning:  Undefined variable $discountAmount in C:\xampp\htdocs\food-ordering-system\checkout.php on line 282
+[29-Apr-2025 14:16:14 Europe/Berlin] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\food-ordering-system\checkout.php on line 282
+[29-Apr-2025 14:16:14 Europe/Berlin] PHP Warning:  Undefined variable $discountAmount in C:\xampp\htdocs\food-ordering-system\checkout.php on line 286
+[29-Apr-2025 14:16:14 Europe/Berlin] PHP Warning:  Undefined variable $discountAmount in C:\xampp\htdocs\food-ordering-system\checkout.php on line 282
+[29-Apr-2025 14:16:14 Europe/Berlin] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\food-ordering-system\checkout.php on line 282
+[29-Apr-2025 14:16:14 Europe/Berlin] PHP Warning:  Undefined variable $discountAmount in C:\xampp\htdocs\food-ordering-system\checkout.php on line 286
+[29-Apr-2025 14:16:44 Europe/Berlin] PHP Warning:  Undefined variable $discountAmount in C:\xampp\htdocs\food-ordering-system\checkout.php on line 282
+[29-Apr-2025 14:16:44 Europe/Berlin] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\food-ordering-system\checkout.php on line 282
+[29-Apr-2025 14:16:44 Europe/Berlin] PHP Warning:  Undefined variable $discountAmount in C:\xampp\htdocs\food-ordering-system\checkout.php on line 286
+[29-Apr-2025 14:16:44 Europe/Berlin] PHP Warning:  Undefined variable $discountAmount in C:\xampp\htdocs\food-ordering-system\checkout.php on line 282
+[29-Apr-2025 14:16:44 Europe/Berlin] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\food-ordering-system\checkout.php on line 282
+[29-Apr-2025 14:16:44 Europe/Berlin] PHP Warning:  Undefined variable $discountAmount in C:\xampp\htdocs\food-ordering-system\checkout.php on line 286
+[29-Apr-2025 14:17:28 Europe/Berlin] PHP Warning:  mail(): SMTP server response: 530-5.7.0 Must issue a STARTTLS command first. For more information, go to
+530-5.7.0  https://support.google.com/a/answer/3221692 and review RFC 3207
+530 5.7.0 specifications. a640c23a62f3a-ace6ecf7397sm786088166b.92 - gsmtp in C:\xampp\htdocs\food-ordering-system\includes\notifications.php on line 48
+[29-Apr-2025 14:17:28 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function sanitizeInput() in C:\xampp\htdocs\food-ordering-system\order_tracking.php:11
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\food-ordering-system\order_tracking.php on line 11
+[29-Apr-2025 14:17:29 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function sanitizeInput() in C:\xampp\htdocs\food-ordering-system\order_tracking.php:11
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\food-ordering-system\order_tracking.php on line 11
+[29-Apr-2025 14:21:48 Europe/Berlin] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\food-ordering-system\admin\dashboard.php on line 103
+[29-Apr-2025 14:22:03 Europe/Berlin] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\food-ordering-system\admin\dashboard.php on line 103
+[29-Apr-2025 15:52:19 Europe/Berlin] Received cart data: {"cart":{"2":{"name":"Single Chicken Burger","price":40,"quantity":4}}}
+[29-Apr-2025 15:52:19 Europe/Berlin] Session cart after update: Array
+(
+    [2] => Array
+        (
+            [name] => Single Chicken Burger
+            [price] => 40
+            [quantity] => 4
+        )
+
+)
+
+[29-Apr-2025 15:52:29 Europe/Berlin] PHP Warning:  Undefined variable $discountAmount in C:\xampp\htdocs\food-ordering-system\checkout.php on line 282
+[29-Apr-2025 15:52:30 Europe/Berlin] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\food-ordering-system\checkout.php on line 282
+[29-Apr-2025 15:52:30 Europe/Berlin] PHP Warning:  Undefined variable $discountAmount in C:\xampp\htdocs\food-ordering-system\checkout.php on line 286
+[29-Apr-2025 15:52:30 Europe/Berlin] PHP Warning:  Undefined variable $discountAmount in C:\xampp\htdocs\food-ordering-system\checkout.php on line 282
+[29-Apr-2025 15:52:30 Europe/Berlin] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\food-ordering-system\checkout.php on line 282
+[29-Apr-2025 15:52:30 Europe/Berlin] PHP Warning:  Undefined variable $discountAmount in C:\xampp\htdocs\food-ordering-system\checkout.php on line 286
+[29-Apr-2025 15:52:42 Europe/Berlin] PHP Warning:  mail(): SMTP server response: 530-5.7.0 Must issue a STARTTLS command first. For more information, go to
+530-5.7.0  https://support.google.com/a/answer/3221692 and review RFC 3207
+530 5.7.0 specifications. ffacd0b85a97d-3a073e4684csm13969348f8f.76 - gsmtp in C:\xampp\htdocs\food-ordering-system\includes\notifications.php on line 48
+[29-Apr-2025 15:53:19 Europe/Berlin] Received cart data: {"cart":{"2":{"name":"Single Chicken Burger","price":40,"quantity":5}}}
+[29-Apr-2025 15:53:19 Europe/Berlin] Session cart after update: Array
+(
+    [2] => Array
+        (
+            [name] => Single Chicken Burger
+            [price] => 40
+            [quantity] => 5
+        )
+
+)
+
+[29-Apr-2025 15:53:41 Europe/Berlin] PHP Warning:  Undefined variable $discountAmount in C:\xampp\htdocs\food-ordering-system\checkout.php on line 282
+[29-Apr-2025 15:53:41 Europe/Berlin] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\food-ordering-system\checkout.php on line 282
+[29-Apr-2025 15:53:41 Europe/Berlin] PHP Warning:  Undefined variable $discountAmount in C:\xampp\htdocs\food-ordering-system\checkout.php on line 286
+[29-Apr-2025 15:53:41 Europe/Berlin] PHP Warning:  Undefined variable $discountAmount in C:\xampp\htdocs\food-ordering-system\checkout.php on line 282
+[29-Apr-2025 15:53:41 Europe/Berlin] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\food-ordering-system\checkout.php on line 282
+[29-Apr-2025 15:53:41 Europe/Berlin] PHP Warning:  Undefined variable $discountAmount in C:\xampp\htdocs\food-ordering-system\checkout.php on line 286
+[29-Apr-2025 17:04:14 Europe/Berlin] Received cart data: {"cart":{"2":{"name":"Single Chicken Burger","price":40,"quantity":1}}}
+[29-Apr-2025 17:04:14 Europe/Berlin] Session cart after update: Array
+(
+    [2] => Array
+        (
+            [name] => Single Chicken Burger
+            [price] => 40
+            [quantity] => 1
+        )
+
+)
+
+[29-Apr-2025 17:04:58 Europe/Berlin] PHP Warning:  mail(): SMTP server response: 530-5.7.0 Must issue a STARTTLS command first. For more information, go to
+530-5.7.0  https://support.google.com/a/answer/3221692 and review RFC 3207
+530 5.7.0 specifications. 4fb4d7f45d1cf-5f7016f48ebsm7485584a12.33 - gsmtp in C:\xampp\htdocs\food-ordering-system\includes\notifications.php on line 48
+[29-Apr-2025 17:07:08 Europe/Berlin] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\food-ordering-system\admin\dashboard.php on line 103
+[29-Apr-2025 17:12:42 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\food-ordering-system\order_tracking.php on line 8
+[29-Apr-2025 17:12:50 Europe/Berlin] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\food-ordering-system\admin\dashboard.php on line 103
+[29-Apr-2025 17:13:05 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\food-ordering-system\order_tracking.php on line 8
+[29-Apr-2025 17:13:06 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\food-ordering-system\order_tracking.php on line 8
+[29-Apr-2025 17:13:07 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\food-ordering-system\order_tracking.php on line 8
+[29-Apr-2025 17:13:08 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\food-ordering-system\order_tracking.php on line 8
+[29-Apr-2025 17:13:12 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\food-ordering-system\order_tracking.php on line 8
+[29-Apr-2025 17:13:16 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\food-ordering-system\order_tracking.php on line 8
+[29-Apr-2025 17:13:22 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\food-ordering-system\order_tracking.php on line 8
+[29-Apr-2025 17:13:29 Europe/Berlin] Received cart data: {"cart":{"1":{"name":"Chicken Burgers","price":15.5,"quantity":1},"2":{"name":"Single Chicken Burger","price":40,"quantity":1}}}
+[29-Apr-2025 17:13:29 Europe/Berlin] Session cart after update: Array
+(
+    [1] => Array
+        (
+            [name] => Chicken Burgers
+            [price] => 15.5
+            [quantity] => 1
+        )
+
+    [2] => Array
+        (
+            [name] => Single Chicken Burger
+            [price] => 40
+            [quantity] => 1
+        )
+
+)
+
+[29-Apr-2025 17:13:47 Europe/Berlin] PHP Warning:  mail(): SMTP server response: 530-5.7.0 Must issue a STARTTLS command first. For more information, go to
+530-5.7.0  https://support.google.com/a/answer/3221692 and review RFC 3207
+530 5.7.0 specifications. a640c23a62f3a-acec84af9d7sm129260266b.62 - gsmtp in C:\xampp\htdocs\food-ordering-system\includes\notifications.php on line 48
+[29-Apr-2025 17:13:51 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\food-ordering-system\order_tracking.php on line 8
+[29-Apr-2025 17:16:07 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\food-ordering-system\order_tracking.php on line 8
+[29-Apr-2025 17:16:08 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\food-ordering-system\order_tracking.php on line 8
+[29-Apr-2025 17:16:08 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\food-ordering-system\order_tracking.php on line 8
+[29-Apr-2025 17:16:08 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\food-ordering-system\order_tracking.php on line 8
+[29-Apr-2025 17:16:08 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\food-ordering-system\order_tracking.php on line 8
+[29-Apr-2025 17:16:09 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\food-ordering-system\order_tracking.php on line 8
+[29-Apr-2025 17:16:09 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\food-ordering-system\order_tracking.php on line 8
+[29-Apr-2025 17:16:09 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\food-ordering-system\order_tracking.php on line 8
+[29-Apr-2025 17:21:15 Europe/Berlin] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\food-ordering-system\admin\dashboard.php on line 103
+[29-Apr-2025 17:21:44 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function sendOrderStatusNotification() in C:\xampp\htdocs\food-ordering-system\admin\orders.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 20
+[29-Apr-2025 17:22:54 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function sendOrderStatusNotification() in C:\xampp\htdocs\food-ordering-system\admin\orders.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 20
+[29-Apr-2025 17:23:18 Europe/Berlin] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\food-ordering-system\admin\dashboard.php on line 103
+[29-Apr-2025 17:29:58 Europe/Berlin] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\food-ordering-system\admin\dashboard.php on line 103
+[29-Apr-2025 17:29:59 Europe/Berlin] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\food-ordering-system\admin\dashboard.php on line 103
+[30-Apr-2025 07:31:13 Europe/Berlin] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\food-ordering-system\admin\dashboard.php on line 103
+[30-Apr-2025 07:39:25 Europe/Berlin] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\food-ordering-system\admin\dashboard.php on line 103
+[30-Apr-2025 07:39:25 Europe/Berlin] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\food-ordering-system\admin\dashboard.php on line 103
+[30-Apr-2025 07:39:48 Europe/Berlin] Error retrieving order details: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'food_ordering_system.food_items' doesn't exist
+[30-Apr-2025 07:43:19 Europe/Berlin] Error retrieving order details: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'food_ordering_system.food_items' doesn't exist
+[30-Apr-2025 08:05:40 Europe/Berlin] PHP Warning:  Undefined array key "status_updated_at" in C:\xampp\htdocs\food-ordering-system\order_tracking.php on line 161
+[30-Apr-2025 08:05:40 Europe/Berlin] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\food-ordering-system\order_tracking.php on line 161
+[30-Apr-2025 09:39:46 Europe/Berlin] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\food-ordering-system\admin\dashboard.php on line 103
+[30-Apr-2025 09:39:46 Europe/Berlin] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\food-ordering-system\admin\dashboard.php on line 103
+[30-Apr-2025 09:40:06 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function sendOrderStatusNotification() in C:\xampp\htdocs\food-ordering-system\admin\orders.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 20
+[30-Apr-2025 09:51:38 Europe/Berlin] Received cart data: {"cart":{"1":{"name":"Chicken Burgers","price":15.5,"quantity":14},"2":{"name":"Single Chicken Burger","price":40,"quantity":35}}}
+[30-Apr-2025 09:51:38 Europe/Berlin] Session cart after update: Array
+(
+    [1] => Array
+        (
+            [name] => Chicken Burgers
+            [price] => 15.5
+            [quantity] => 14
+        )
+
+    [2] => Array
+        (
+            [name] => Single Chicken Burger
+            [price] => 40
+            [quantity] => 35
+        )
+
+)
+
+[30-Apr-2025 09:52:24 Europe/Berlin] PHP Warning:  mail(): SMTP server response: 530-5.7.0 Must issue a STARTTLS command first. For more information, go to
+530-5.7.0  https://support.google.com/a/answer/3221692 and review RFC 3207
+530 5.7.0 specifications. a640c23a62f3a-ace6ed704bdsm896050966b.148 - gsmtp in C:\xampp\htdocs\food-ordering-system\includes\notifications.php on line 48
+[30-Apr-2025 09:53:21 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function sendOrderStatusNotification() in C:\xampp\htdocs\food-ordering-system\admin\orders.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 20
+[30-Apr-2025 10:59:37 Europe/Berlin] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\food-ordering-system\admin\dashboard.php on line 103
+[30-Apr-2025 10:59:38 Europe/Berlin] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\food-ordering-system\admin\dashboard.php on line 103
+[30-Apr-2025 11:06:57 Europe/Berlin] PHP Fatal error:  Cannot redeclare getStatusBadgeClass() (previously declared in C:\xampp\htdocs\food-ordering-system\admin\orders.php:88) in C:\xampp\htdocs\food-ordering-system\includes\functions.php on line 93
+[30-Apr-2025 11:06:58 Europe/Berlin] PHP Fatal error:  Cannot redeclare getStatusBadgeClass() (previously declared in C:\xampp\htdocs\food-ordering-system\admin\orders.php:88) in C:\xampp\htdocs\food-ordering-system\includes\functions.php on line 93
+[30-Apr-2025 12:13:09 Europe/Berlin] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\food-ordering-system\admin\dashboard.php on line 103
+[01-May-2025 08:38:25 Europe/Berlin] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\food-ordering-system\admin\dashboard.php on line 103
+[01-May-2025 09:13:46 Europe/Berlin] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\food-ordering-system\admin\dashboard.php on line 103
+[01-May-2025 09:13:46 Europe/Berlin] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\food-ordering-system\admin\dashboard.php on line 103
+[01-May-2025 09:18:06 Europe/Berlin] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\food-ordering-system\admin\dashboard.php on line 103
+[01-May-2025 09:18:58 Europe/Berlin] PHP Warning:  mail(): SMTP server response: 530-5.7.0 Must issue a STARTTLS command first. For more information, go to
+530-5.7.0  https://support.google.com/a/answer/3221692 and review RFC 3207
+530 5.7.0 specifications. a640c23a62f3a-ad0da55b8b2sm1155866b.136 - gsmtp in C:\xampp\htdocs\food-ordering-system\includes\notifications.php on line 48
+[01-May-2025 09:18:58 Europe/Berlin] PHP Warning:  require_once(vendor/autoload.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\food-ordering-system\includes\notifications.php on line 55
+[01-May-2025 09:18:58 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\food-ordering-system\includes\notifications.php:55
+Stack trace:
+#0 C:\xampp\htdocs\food-ordering-system\includes\notifications.php(37): sendSmsNotification('0618804513', 'Order #ORD-6811...')
+#1 C:\xampp\htdocs\food-ordering-system\kitchen\dashboard.php(21): sendOrderStatusNotification(5, 'preparing')
+#2 {main}
+  thrown in C:\xampp\htdocs\food-ordering-system\includes\notifications.php on line 55
+[01-May-2025 09:19:11 Europe/Berlin] PHP Warning:  mail(): SMTP server response: 530-5.7.0 Must issue a STARTTLS command first. For more information, go to
+530-5.7.0  https://support.google.com/a/answer/3221692 and review RFC 3207
+530 5.7.0 specifications. a640c23a62f3a-ad0c70f14d2sm2050566b.70 - gsmtp in C:\xampp\htdocs\food-ordering-system\includes\notifications.php on line 48
+[01-May-2025 09:19:11 Europe/Berlin] PHP Warning:  require_once(vendor/autoload.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\food-ordering-system\includes\notifications.php on line 55
+[01-May-2025 09:19:11 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\food-ordering-system\includes\notifications.php:55
+Stack trace:
+#0 C:\xampp\htdocs\food-ordering-system\includes\notifications.php(37): sendSmsNotification('0618804513', 'Order #ORD-6810...')
+#1 C:\xampp\htdocs\food-ordering-system\kitchen\dashboard.php(21): sendOrderStatusNotification(3, 'ready')
+#2 {main}
+  thrown in C:\xampp\htdocs\food-ordering-system\includes\notifications.php on line 55
+[01-May-2025 09:19:42 Europe/Berlin] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\food-ordering-system\admin\dashboard.php on line 103
+[01-May-2025 09:20:23 Europe/Berlin] PHP Warning:  mail(): SMTP server response: 530-5.7.0 Must issue a STARTTLS command first. For more information, go to
+530-5.7.0  https://support.google.com/a/answer/3221692 and review RFC 3207
+530 5.7.0 specifications. a640c23a62f3a-ad0da57be85sm1180366b.164 - gsmtp in C:\xampp\htdocs\food-ordering-system\includes\notifications.php on line 48
+[01-May-2025 09:20:23 Europe/Berlin] PHP Warning:  require_once(vendor/autoload.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\food-ordering-system\includes\notifications.php on line 55
+[01-May-2025 09:20:23 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\food-ordering-system\includes\notifications.php:55
+Stack trace:
+#0 C:\xampp\htdocs\food-ordering-system\includes\notifications.php(37): sendSmsNotification('0618804513', 'Order #ORD-6810...')
+#1 C:\xampp\htdocs\food-ordering-system\delivery\dashboard.php(21): sendOrderStatusNotification(3, 'out_for_deliver...')
+#2 {main}
+  thrown in C:\xampp\htdocs\food-ordering-system\includes\notifications.php on line 55
+[01-May-2025 09:20:27 Europe/Berlin] PHP Warning:  mail(): SMTP server response: 530-5.7.0 Must issue a STARTTLS command first. For more information, go to
+530-5.7.0  https://support.google.com/a/answer/3221692 and review RFC 3207
+530 5.7.0 specifications. a640c23a62f3a-ad0c70d3910sm2353666b.36 - gsmtp in C:\xampp\htdocs\food-ordering-system\includes\notifications.php on line 48
+[01-May-2025 09:20:27 Europe/Berlin] PHP Warning:  require_once(vendor/autoload.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\food-ordering-system\includes\notifications.php on line 55
+[01-May-2025 09:20:27 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\food-ordering-system\includes\notifications.php:55
+Stack trace:
+#0 C:\xampp\htdocs\food-ordering-system\includes\notifications.php(37): sendSmsNotification('0618804513', 'Order #ORD-6810...')
+#1 C:\xampp\htdocs\food-ordering-system\delivery\dashboard.php(21): sendOrderStatusNotification(3, 'delivered')
+#2 {main}
+  thrown in C:\xampp\htdocs\food-ordering-system\includes\notifications.php on line 55
+[01-May-2025 09:29:51 Europe/Berlin] Received cart data: {"cart":{"1":{"name":"Chicken Burgers","price":15.5,"quantity":14},"2":{"name":"Single Chicken Burger","price":40,"quantity":36}}}
+[01-May-2025 09:29:51 Europe/Berlin] Session cart after update: Array
+(
+    [1] => Array
+        (
+            [name] => Chicken Burgers
+            [price] => 15.5
+            [quantity] => 14
+        )
+
+    [2] => Array
+        (
+            [name] => Single Chicken Burger
+            [price] => 40
+            [quantity] => 36
+        )
+
+)
+
+[01-May-2025 09:30:38 Europe/Berlin] PHP Warning:  mail(): SMTP server response: 530-5.7.0 Must issue a STARTTLS command first. For more information, go to
+530-5.7.0  https://support.google.com/a/answer/3221692 and review RFC 3207
+530 5.7.0 specifications. a640c23a62f3a-ad0c70d39b1sm3355566b.2 - gsmtp in C:\xampp\htdocs\food-ordering-system\includes\notifications.php on line 48
+[01-May-2025 10:14:27 Europe/Berlin] PHP Fatal error:  Cannot redeclare requireRole() (previously declared in C:\xampp\htdocs\food-ordering-system\includes\auth.php:52) in C:\xampp\htdocs\food-ordering-system\includes\functions.php on line 119
+[08-May-2025 09:11:53 Europe/Berlin] Received cart data: {"cart":{"2":{"name":"Single Chicken Burger","price":40,"quantity":1}}}
+[08-May-2025 09:11:53 Europe/Berlin] Session cart after update: Array
+(
+    [2] => Array
+        (
+            [name] => Single Chicken Burger
+            [price] => 40
+            [quantity] => 1
+        )
+
+)
+
+[08-May-2025 09:12:14 Europe/Berlin] PHP Warning:  mail(): SMTP server response: 530-5.7.0 Must issue a STARTTLS command first. For more information, go to
+530-5.7.0  https://support.google.com/a/answer/3221692 and review RFC 3207
+530 5.7.0 specifications. a640c23a62f3a-ad188ea7f41sm1034642466b.0 - gsmtp in C:\xampp\htdocs\food-ordering-system\includes\notifications.php on line 48
+[08-May-2025 09:36:06 Europe/Berlin] PHP Warning:  mail(): SMTP server response: 530-5.7.0 Must issue a STARTTLS command first. For more information, go to
+530-5.7.0  https://support.google.com/a/answer/3221692 and review RFC 3207
+530 5.7.0 specifications. 4fb4d7f45d1cf-5fa7781cffdsm10846900a12.46 - gsmtp in C:\xampp\htdocs\food-ordering-system\includes\notifications.php on line 48
+[08-May-2025 09:36:06 Europe/Berlin] PHP Warning:  require_once(vendor/autoload.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\food-ordering-system\includes\notifications.php on line 55
+[08-May-2025 09:36:06 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\food-ordering-system\includes\notifications.php:55
+Stack trace:
+#0 C:\xampp\htdocs\food-ordering-system\includes\notifications.php(37): sendSmsNotification('0618804513', 'Order #ORD-6810...')
+#1 C:\xampp\htdocs\food-ordering-system\kitchen\dashboard.php(21): sendOrderStatusNotification(4, 'ready')
+#2 {main}
+  thrown in C:\xampp\htdocs\food-ordering-system\includes\notifications.php on line 55
+[08-May-2025 11:40:44 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\food-ordering-system\admin\update_order_status.php on line 7
+[08-May-2025 11:57:55 Europe/Berlin] PHP Fatal error:  Cannot redeclare requireRole() (previously declared in C:\xampp\htdocs\food-ordering-system\includes\auth.php:59) in C:\xampp\htdocs\food-ordering-system\includes\functions.php on line 119
+[08-May-2025 11:57:57 Europe/Berlin] PHP Fatal error:  Cannot redeclare requireRole() (previously declared in C:\xampp\htdocs\food-ordering-system\includes\auth.php:59) in C:\xampp\htdocs\food-ordering-system\includes\functions.php on line 119
+[08-May-2025 14:44:52 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function sanitizeInput() in C:\xampp\htdocs\food-ordering-system\admin\update_order_status.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\food-ordering-system\admin\update_order_status.php on line 24
+[08-May-2025 14:46:26 Europe/Berlin] PHP Fatal error:  Cannot redeclare sanitizeInput() (previously declared in C:\xampp\htdocs\food-ordering-system\includes\functions.php:52) in C:\xampp\htdocs\food-ordering-system\includes\validation.php on line 11
+[08-May-2025 14:47:12 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function sanitizeInput() in C:\xampp\htdocs\food-ordering-system\admin\update_order_status.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\food-ordering-system\admin\update_order_status.php on line 24
+[08-May-2025 14:47:44 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function sanitizeInput() in C:\xampp\htdocs\food-ordering-system\admin\update_order_status.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\food-ordering-system\admin\update_order_status.php on line 24
+[08-May-2025 14:49:08 Europe/Berlin] PHP Fatal error:  Cannot redeclare sanitizeInput() (previously declared in C:\xampp\htdocs\food-ordering-system\includes\functions.php:52) in C:\xampp\htdocs\food-ordering-system\includes\validation.php on line 11
+[08-May-2025 15:48:18 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'order clause' in C:\xampp\htdocs\food-ordering-system\includes\db.php:19
+Stack trace:
+#0 C:\xampp\htdocs\food-ordering-system\includes\db.php(19): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\food-ordering-system\includes\db.php(28): query('SELECT * FROM p...', Array)
+#2 C:\xampp\htdocs\food-ordering-system\admin\promo_codes.php(78): fetchAll('SELECT * FROM p...')
+#3 {main}
+  thrown in C:\xampp\htdocs\food-ordering-system\includes\db.php on line 19
+[08-May-2025 15:54:38 Europe/Berlin] Received cart data: {"cart":{"1":{"name":"Chicken Burgers","price":15.5,"quantity":2}}}
+[08-May-2025 15:54:38 Europe/Berlin] Session cart after update: Array
+(
+    [1] => Array
+        (
+            [name] => Chicken Burgers
+            [price] => 15.5
+            [quantity] => 2
+        )
+
+)
+
+[08-May-2025 16:22:56 Europe/Berlin] Received cart data: {"cart":{"1":{"name":"Chicken Burgers","price":15.5,"quantity":2},"2":{"name":"Single Chicken Burger","price":40,"quantity":2}}}
+[08-May-2025 16:22:56 Europe/Berlin] Session cart after update: Array
+(
+    [1] => Array
+        (
+            [name] => Chicken Burgers
+            [price] => 15.5
+            [quantity] => 2
+        )
+
+    [2] => Array
+        (
+            [name] => Single Chicken Burger
+            [price] => 40
+            [quantity] => 2
+        )
+
+)
+
+[08-May-2025 16:35:57 Europe/Berlin] PHP Warning:  Undefined variable $orderId in C:\xampp\htdocs\food-ordering-system\checkout.php on line 78
+[08-May-2025 16:36:12 Europe/Berlin] PHP Warning:  Undefined variable $orderId in C:\xampp\htdocs\food-ordering-system\checkout.php on line 78
+[08-May-2025 16:38:52 Europe/Berlin] PHP Warning:  mail(): SMTP server response: 530-5.7.0 Must issue a STARTTLS command first. For more information, go to
+530-5.7.0  https://support.google.com/a/answer/3221692 and review RFC 3207
+530 5.7.0 specifications. a640c23a62f3a-ad1894c02f3sm1109047566b.92 - gsmtp in C:\xampp\htdocs\food-ordering-system\includes\notifications.php on line 48
+[08-May-2025 16:40:17 Europe/Berlin] Received cart data: {"cart":{"1":{"name":"Chicken Burgers","price":15.5,"quantity":2},"2":{"name":"Single Chicken Burger","price":40,"quantity":3}}}
+[08-May-2025 16:40:17 Europe/Berlin] Session cart after update: Array
+(
+    [1] => Array
+        (
+            [name] => Chicken Burgers
+            [price] => 15.5
+            [quantity] => 2
+        )
+
+    [2] => Array
+        (
+            [name] => Single Chicken Burger
+            [price] => 40
+            [quantity] => 3
+        )
+
+)
+
+[08-May-2025 16:51:09 Europe/Berlin] PHP Warning:  mail(): SMTP server response: 530-5.7.0 Must issue a STARTTLS command first. For more information, go to
+530-5.7.0  https://support.google.com/a/answer/3221692 and review RFC 3207
+530 5.7.0 specifications. a640c23a62f3a-ad18950857fsm1091902966b.125 - gsmtp in C:\xampp\htdocs\food-ordering-system\includes\notifications.php on line 48
+[08-May-2025 16:51:09 Europe/Berlin] PHP Warning:  require_once(vendor/autoload.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\food-ordering-system\includes\notifications.php on line 55
+[08-May-2025 16:51:09 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\food-ordering-system\includes\notifications.php:55
+Stack trace:
+#0 C:\xampp\htdocs\food-ordering-system\includes\notifications.php(37): sendSmsNotification('0618804513', 'Order #ORD-6811...')
+#1 C:\xampp\htdocs\food-ordering-system\kitchen\dashboard.php(21): sendOrderStatusNotification(5, 'preparing')
+#2 {main}
+  thrown in C:\xampp\htdocs\food-ordering-system\includes\notifications.php on line 55
+[08-May-2025 17:25:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function sendEmailNotification() in C:\xampp\htdocs\food-ordering-system\includes\notifications.php:31
+Stack trace:
+#0 C:\xampp\htdocs\food-ordering-system\kitchen\dashboard.php(21): sendOrderStatusNotification(6, 'ready')
+#1 {main}
+  thrown in C:\xampp\htdocs\food-ordering-system\includes\notifications.php on line 31
+[08-May-2025 17:40:11 Europe/Berlin] PHP Warning:  Undefined variable $unreadCount in C:\xampp\htdocs\food-ordering-system\admin\dashboard.php on line 91
+[08-May-2025 17:40:11 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\dashboard.php on line 99
+[08-May-2025 17:40:11 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\dashboard.php on line 99
+[08-May-2025 17:41:53 Europe/Berlin] PHP Warning:  Undefined variable $unreadCount in C:\xampp\htdocs\food-ordering-system\admin\dashboard.php on line 101
+[08-May-2025 17:41:53 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\dashboard.php on line 109
+[08-May-2025 17:41:53 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\dashboard.php on line 109
+[08-May-2025 17:42:10 Europe/Berlin] PHP Warning:  Undefined variable $unreadCount in C:\xampp\htdocs\food-ordering-system\admin\dashboard.php on line 101
+[08-May-2025 17:42:10 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\dashboard.php on line 109
+[08-May-2025 17:42:10 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\dashboard.php on line 109
+[08-May-2025 17:42:44 Europe/Berlin] PHP Warning:  Undefined variable $unreadCount in C:\xampp\htdocs\food-ordering-system\admin\dashboard.php on line 61
+[08-May-2025 17:42:44 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\dashboard.php on line 69
+[08-May-2025 17:42:44 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\dashboard.php on line 69
+[08-May-2025 17:42:44 Europe/Berlin] PHP Warning:  Undefined variable $unreadCount in C:\xampp\htdocs\food-ordering-system\admin\dashboard.php on line 133
+[08-May-2025 17:42:44 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\dashboard.php on line 141
+[08-May-2025 17:42:44 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\dashboard.php on line 141
+[08-May-2025 18:01:59 Europe/Berlin] Received cart data: {"cart":{"1":{"name":"Chicken Burgers","price":15.5,"quantity":5},"2":{"name":"Single Chicken Burger","price":40,"quantity":3}}}
+[08-May-2025 18:01:59 Europe/Berlin] Session cart after update: Array
+(
+    [1] => Array
+        (
+            [name] => Chicken Burgers
+            [price] => 15.5
+            [quantity] => 5
+        )
+
+    [2] => Array
+        (
+            [name] => Single Chicken Burger
+            [price] => 40
+            [quantity] => 3
+        )
+
+)
+
+[08-May-2025 18:02:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function sendOrderConfirmationEmail() in C:\xampp\htdocs\food-ordering-system\checkout.php:155
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\food-ordering-system\checkout.php on line 155
+[08-May-2025 18:11:22 Europe/Berlin] Received cart data: {"cart":{"1":{"name":"Chicken Burgers","price":15.5,"quantity":5},"2":{"name":"Single Chicken Burger","price":40,"quantity":4}}}
+[08-May-2025 18:11:22 Europe/Berlin] Session cart after update: Array
+(
+    [1] => Array
+        (
+            [name] => Chicken Burgers
+            [price] => 15.5
+            [quantity] => 5
+        )
+
+    [2] => Array
+        (
+            [name] => Single Chicken Burger
+            [price] => 40
+            [quantity] => 4
+        )
+
+)
+
+[08-May-2025 18:11:47 Europe/Berlin] PHP Warning:  Undefined array key "order_code" in C:\xampp\htdocs\food-ordering-system\order_success.php on line 25
+[08-May-2025 18:11:47 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\food-ordering-system\order_success.php on line 25
+[08-May-2025 18:11:47 Europe/Berlin] PHP Warning:  Undefined array key "order_code" in C:\xampp\htdocs\food-ordering-system\order_success.php on line 34
+[08-May-2025 18:11:47 Europe/Berlin] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\food-ordering-system\order_success.php on line 34
+[08-May-2025 18:16:18 Europe/Berlin] Received cart data: {"cart":{"1":{"name":"Chicken Burgers","price":15.5,"quantity":5},"2":{"name":"Single Chicken Burger","price":40,"quantity":5}}}
+[08-May-2025 18:16:18 Europe/Berlin] Session cart after update: Array
+(
+    [1] => Array
+        (
+            [name] => Chicken Burgers
+            [price] => 15.5
+            [quantity] => 5
+        )
+
+    [2] => Array
+        (
+            [name] => Single Chicken Burger
+            [price] => 40
+            [quantity] => 5
+        )
+
+)
+
+[08-May-2025 18:16:38 Europe/Berlin] PHP Warning:  Undefined array key "order_code" in C:\xampp\htdocs\food-ordering-system\order_success.php on line 25
+[08-May-2025 18:16:38 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\food-ordering-system\order_success.php on line 25
+[08-May-2025 18:16:38 Europe/Berlin] PHP Warning:  Undefined array key "order_code" in C:\xampp\htdocs\food-ordering-system\order_success.php on line 34
+[08-May-2025 18:16:38 Europe/Berlin] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\food-ordering-system\order_success.php on line 34
+[08-May-2025 18:23:42 Europe/Berlin] Received cart data: {"cart":{"1":{"name":"Chicken Burgers","price":15.5,"quantity":5},"2":{"name":"Single Chicken Burger","price":40,"quantity":6}}}
+[08-May-2025 18:23:42 Europe/Berlin] Session cart after update: Array
+(
+    [1] => Array
+        (
+            [name] => Chicken Burgers
+            [price] => 15.5
+            [quantity] => 5
+        )
+
+    [2] => Array
+        (
+            [name] => Single Chicken Burger
+            [price] => 40
+            [quantity] => 6
+        )
+
+)
+
+[08-May-2025 18:36:52 Europe/Berlin] Received cart data: {"cart":{"1":{"name":"Chicken Burgers","price":15.5,"quantity":5},"2":{"name":"Single Chicken Burger","price":40,"quantity":7}}}
+[08-May-2025 18:36:52 Europe/Berlin] Session cart after update: Array
+(
+    [1] => Array
+        (
+            [name] => Chicken Burgers
+            [price] => 15.5
+            [quantity] => 5
+        )
+
+    [2] => Array
+        (
+            [name] => Single Chicken Burger
+            [price] => 40
+            [quantity] => 7
+        )
+
+)
+
+[08-May-2025 18:37:06 Europe/Berlin] Received cart data: {"cart":{"1":{"name":"Chicken Burgers","price":15.5,"quantity":5},"2":{"name":"Single Chicken Burger","price":40,"quantity":8}}}
+[08-May-2025 18:37:06 Europe/Berlin] Session cart after update: Array
+(
+    [1] => Array
+        (
+            [name] => Chicken Burgers
+            [price] => 15.5
+            [quantity] => 5
+        )
+
+    [2] => Array
+        (
+            [name] => Single Chicken Burger
+            [price] => 40
+            [quantity] => 8
+        )
+
+)
+
+[08-May-2025 18:37:08 Europe/Berlin] Received cart data: {"cart":{"1":{"name":"Chicken Burgers","price":15.5,"quantity":5},"2":{"name":"Single Chicken Burger","price":40,"quantity":9}}}
+[08-May-2025 18:37:08 Europe/Berlin] Session cart after update: Array
+(
+    [1] => Array
+        (
+            [name] => Chicken Burgers
+            [price] => 15.5
+            [quantity] => 5
+        )
+
+    [2] => Array
+        (
+            [name] => Single Chicken Burger
+            [price] => 40
+            [quantity] => 9
+        )
+
+)
+
+[08-May-2025 18:44:07 Europe/Berlin] Reports Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:44:07 Europe/Berlin] PHP Warning:  Undefined variable $topItems in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 161
+[08-May-2025 18:44:07 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 161
+[08-May-2025 18:44:25 Europe/Berlin] Reports Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:44:25 Europe/Berlin] PHP Warning:  Undefined variable $topItems in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 161
+[08-May-2025 18:44:25 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 161
+[08-May-2025 18:46:52 Europe/Berlin] Reports Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:46:57 Europe/Berlin] Reports Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:47:11 Europe/Berlin] Reports Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:48:14 Europe/Berlin] Reports Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:48:18 Europe/Berlin] Reports Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:07 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:07 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:07 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:07 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:07 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:07 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:07 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:07 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:07 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:07 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:07 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:07 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:07 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:07 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:07 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:08 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:08 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:08 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:08 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:08 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:08 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:08 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:08 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:08 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:08 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:08 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:08 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:08 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:08 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:08 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:08 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:08 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:08 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:08 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:08 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:08 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:08 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:08 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:08 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:08 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:08 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:08 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:08 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:08 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:08 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:08 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:08 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:08 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:08 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:08 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:08 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:08 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:08 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:08 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:08 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:08 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:08 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:08 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:08 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:08 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:08 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:08 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:08 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:11 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:11 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:11 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:11 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:11 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:11 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:11 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:11 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:11 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:11 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:11 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:11 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:11 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:11 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:11 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:11 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:11 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:11 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:11 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:11 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:11 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:11 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:11 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:11 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:11 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:11 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:11 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:11 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:11 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:11 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:11 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:11 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:11 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:12 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:12 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:12 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:12 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:12 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:12 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:12 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:12 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:12 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:12 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:12 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:12 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:12 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:12 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:12 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:12 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:12 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:12 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:12 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:12 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:12 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:12 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:12 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:12 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:12 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:12 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:12 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:12 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:12 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:12 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:13 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:13 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:13 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:13 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:13 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:13 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:13 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:13 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:13 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:14 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:14 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:14 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:14 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:14 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:14 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:14 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:14 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:14 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:14 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:14 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:14 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:14 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:14 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:14 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:14 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:14 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:14 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:14 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:14 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:14 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:14 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:14 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:14 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:14 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:14 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:14 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:14 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:14 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:14 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:14 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:14 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:14 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:14 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:14 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:14 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:14 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:14 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:14 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:14 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:14 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:14 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:14 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:14 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:14 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:14 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:14 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:14 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:14 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:14 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:14 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:14 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:14 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:14 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:26 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:26 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:26 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:26 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:26 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:26 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:26 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:26 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:26 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:26 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:26 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:26 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:26 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:26 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:26 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:26 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:26 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:26 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:26 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:26 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:26 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:26 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:26 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:26 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:26 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:26 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:26 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:26 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:26 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:26 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:26 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:26 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:26 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:26 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:26 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:26 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:26 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:26 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:26 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:26 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:26 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:26 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:26 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:26 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:26 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:26 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:26 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:26 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:26 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:26 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:26 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:26 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:26 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:26 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:26 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:26 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:26 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:26 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:26 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:26 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:26 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:53:26 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:53:26 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:13 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:56:13 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:13 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:13 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:56:13 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:13 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:13 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:56:13 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:13 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:13 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:56:13 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:13 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:13 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:56:13 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:13 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:13 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:56:13 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:13 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:13 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:56:13 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:13 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:13 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:56:13 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:13 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:14 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:56:14 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:14 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:14 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:56:14 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:14 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:14 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:56:14 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:14 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:14 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:56:14 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:14 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:14 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:56:14 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:14 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:14 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:56:14 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:14 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:14 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:56:14 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:14 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:14 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:56:14 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:14 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:14 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:56:14 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:14 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:14 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:56:14 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:14 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:14 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:56:14 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:14 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:14 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:56:14 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:14 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:14 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:56:14 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:14 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:23 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:56:23 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:23 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:23 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:56:23 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:23 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:23 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:56:23 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:23 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:23 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:56:23 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:23 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:23 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:56:23 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:23 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:23 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:56:23 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:23 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:23 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:56:23 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:23 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:23 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:56:23 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:23 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:23 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:56:23 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:23 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:23 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:56:23 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:23 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:23 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:56:23 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:23 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:23 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:56:23 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:23 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:23 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:56:23 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:23 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:23 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:56:23 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:23 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:24 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:56:24 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:24 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:24 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:56:24 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:24 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:24 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:56:24 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:24 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:24 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:56:24 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:24 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:24 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:56:24 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:24 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:24 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:56:24 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:24 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:24 Europe/Berlin] Reports Error [127.0.0.1]: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:56:24 Europe/Berlin] PHP Warning:  Undefined array key "start_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:24 Europe/Berlin] PHP Warning:  Undefined array key "end_date" in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 71
+[08-May-2025 18:56:33 Europe/Berlin] Reports Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 18:59:59 Europe/Berlin] PHP Warning:  Undefined variable $unreadCount in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 205
+[08-May-2025 18:59:59 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 213
+[08-May-2025 18:59:59 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 213
+[08-May-2025 19:01:10 Europe/Berlin] PHP Warning:  Undefined variable $unreadCount in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 167
+[08-May-2025 19:01:10 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 175
+[08-May-2025 19:01:10 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 175
+[08-May-2025 19:02:51 Europe/Berlin] PHP Warning:  Undefined variable $unreadCount in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 179
+[08-May-2025 19:02:51 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 187
+[08-May-2025 19:02:51 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 187
+[08-May-2025 19:03:11 Europe/Berlin] PHP Warning:  Undefined variable $unreadCount in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 179
+[08-May-2025 19:03:11 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 187
+[08-May-2025 19:03:11 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 187
+[08-May-2025 19:03:39 Europe/Berlin] PHP Warning:  Undefined variable $unreadCount in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 175
+[08-May-2025 19:03:39 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 183
+[08-May-2025 19:03:39 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 183
+[08-May-2025 19:04:01 Europe/Berlin] PHP Warning:  Undefined variable $unreadCount in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 174
+[08-May-2025 19:04:01 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 182
+[08-May-2025 19:04:01 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 182
+[08-May-2025 19:04:49 Europe/Berlin] PHP Warning:  Undefined variable $unreadCount in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 172
+[08-May-2025 19:04:49 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:04:49 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:05:18 Europe/Berlin] PHP Warning:  Undefined variable $unreadCount in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 172
+[08-May-2025 19:05:18 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:05:18 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:05:36 Europe/Berlin] PHP Warning:  Undefined variable $unreadCount in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 172
+[08-May-2025 19:05:36 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:05:36 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:06:17 Europe/Berlin] PHP Warning:  Undefined variable $unreadCount in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 172
+[08-May-2025 19:06:17 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:06:17 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:06:24 Europe/Berlin] PHP Warning:  Undefined variable $unreadCount in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 172
+[08-May-2025 19:06:24 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:06:24 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:06:26 Europe/Berlin] PHP Warning:  Undefined variable $unreadCount in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 172
+[08-May-2025 19:06:26 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:06:26 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:06:29 Europe/Berlin] PHP Warning:  Undefined variable $unreadCount in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 172
+[08-May-2025 19:06:29 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:06:29 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:07:05 Europe/Berlin] PHP Warning:  Undefined variable $unreadCount in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 172
+[08-May-2025 19:07:05 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:07:05 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:07:17 Europe/Berlin] PHP Warning:  Undefined variable $unreadCount in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 172
+[08-May-2025 19:07:17 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:07:17 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:07:28 Europe/Berlin] PHP Warning:  Undefined variable $unreadCount in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 172
+[08-May-2025 19:07:28 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:07:28 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:07:32 Europe/Berlin] PHP Warning:  Undefined variable $unreadCount in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 172
+[08-May-2025 19:07:32 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:07:32 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:09:09 Europe/Berlin] PHP Warning:  Undefined variable $unreadCount in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 17
+[08-May-2025 19:09:09 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 25
+[08-May-2025 19:09:09 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 25
+[08-May-2025 19:09:09 Europe/Berlin] PHP Warning:  Undefined variable $unreadCount in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 172
+[08-May-2025 19:09:09 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:09:09 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:10:02 Europe/Berlin] PHP Warning:  Undefined variable $unreadCount in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 18
+[08-May-2025 19:10:02 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 26
+[08-May-2025 19:10:02 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 26
+[08-May-2025 19:10:02 Europe/Berlin] PHP Warning:  Undefined variable $unreadCount in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 172
+[08-May-2025 19:10:02 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:10:02 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:10:02 Europe/Berlin] PHP Warning:  Undefined variable $unreadCount in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 18
+[08-May-2025 19:10:02 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 26
+[08-May-2025 19:10:02 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 26
+[08-May-2025 19:10:02 Europe/Berlin] PHP Warning:  Undefined variable $unreadCount in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 172
+[08-May-2025 19:10:02 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:10:02 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:13:19 Europe/Berlin] PHP Warning:  Undefined variable $unreadCount in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 18
+[08-May-2025 19:13:19 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 26
+[08-May-2025 19:13:19 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 26
+[08-May-2025 19:13:19 Europe/Berlin] PHP Warning:  Undefined variable $unreadCount in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 172
+[08-May-2025 19:13:19 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:13:19 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:13:20 Europe/Berlin] PHP Warning:  Undefined variable $unreadCount in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 18
+[08-May-2025 19:13:20 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 26
+[08-May-2025 19:13:20 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 26
+[08-May-2025 19:13:20 Europe/Berlin] PHP Warning:  Undefined variable $unreadCount in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 172
+[08-May-2025 19:13:20 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:13:20 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:13:21 Europe/Berlin] PHP Warning:  Undefined variable $unreadCount in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 18
+[08-May-2025 19:13:21 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 26
+[08-May-2025 19:13:21 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 26
+[08-May-2025 19:13:21 Europe/Berlin] PHP Warning:  Undefined variable $unreadCount in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 172
+[08-May-2025 19:13:21 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:13:21 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:13:21 Europe/Berlin] PHP Warning:  Undefined variable $unreadCount in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 18
+[08-May-2025 19:13:21 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 26
+[08-May-2025 19:13:21 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 26
+[08-May-2025 19:13:21 Europe/Berlin] PHP Warning:  Undefined variable $unreadCount in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 172
+[08-May-2025 19:13:21 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:13:21 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:13:55 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:13:55 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:13:55 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:13:55 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:13:55 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:14:02 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:14:02 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:14:02 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:14:02 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:14:02 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:14:03 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:14:03 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:14:03 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:14:03 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:14:03 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:14:07 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:14:07 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:14:07 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:14:12 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:14:12 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:14:12 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:14:12 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:14:12 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:14:13 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:14:13 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:14:13 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:14:15 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:14:15 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:14:15 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:14:15 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:14:15 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:14:17 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:14:17 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:14:17 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:14:19 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:14:19 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:14:19 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:14:19 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:14:19 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:14:21 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:14:21 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:14:21 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:14:23 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:14:23 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:14:23 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:14:23 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:14:23 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:14:24 Europe/Berlin] Reports Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 19:14:24 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:14:24 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:14:24 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:14:26 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:14:26 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:14:26 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:14:26 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:14:26 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:14:41 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:14:41 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:14:41 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:15:05 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function getUnreadNotificationsCount() in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php:7
+Stack trace:
+#0 C:\xampp\htdocs\food-ordering-system\admin\users.php(86): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 7
+[08-May-2025 19:15:13 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:15:13 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:15:13 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:16:17 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:16:17 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:16:17 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:16:17 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\users.php on line 137
+[08-May-2025 19:16:17 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\users.php on line 137
+[08-May-2025 19:16:41 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:16:41 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:16:41 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:16:41 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\users.php on line 137
+[08-May-2025 19:16:41 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\users.php on line 137
+[08-May-2025 19:17:09 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:17:09 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:17:09 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:17:09 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\users.php on line 137
+[08-May-2025 19:17:09 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\users.php on line 137
+[08-May-2025 19:17:18 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:17:18 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:17:18 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:17:18 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:17:18 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:17:25 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:17:25 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:17:25 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:17:25 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:17:25 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:17:27 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:17:27 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:17:27 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:17:27 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\users.php on line 137
+[08-May-2025 19:17:27 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\users.php on line 137
+[08-May-2025 19:17:29 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:17:29 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:17:29 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:17:50 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:17:50 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:17:50 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:17:53 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:17:53 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:17:53 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:18:43 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:18:43 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:18:43 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:18:43 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\categories.php on line 96
+[08-May-2025 19:18:43 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\categories.php on line 96
+[08-May-2025 19:19:02 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:19:02 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:19:02 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:19:02 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\categories.php on line 96
+[08-May-2025 19:19:02 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\categories.php on line 96
+[08-May-2025 19:19:02 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:19:02 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:19:02 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:19:02 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\categories.php on line 96
+[08-May-2025 19:19:02 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\categories.php on line 96
+[08-May-2025 19:19:03 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:19:03 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:19:03 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:19:03 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\categories.php on line 96
+[08-May-2025 19:19:03 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\categories.php on line 96
+[08-May-2025 19:19:03 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:19:03 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:19:03 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:19:03 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\categories.php on line 96
+[08-May-2025 19:19:03 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\categories.php on line 96
+[08-May-2025 19:19:03 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:19:03 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:19:03 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:19:03 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\categories.php on line 96
+[08-May-2025 19:19:03 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\categories.php on line 96
+[08-May-2025 19:19:09 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:19:09 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:19:09 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:19:09 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:19:09 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:19:14 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:19:14 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:19:14 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:19:14 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\users.php on line 137
+[08-May-2025 19:19:14 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\users.php on line 137
+[08-May-2025 19:19:16 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:19:16 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:19:16 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:19:16 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\categories.php on line 96
+[08-May-2025 19:19:16 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\categories.php on line 96
+[08-May-2025 19:19:21 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:19:21 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:19:21 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:19:21 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\categories.php on line 96
+[08-May-2025 19:19:21 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\categories.php on line 96
+[08-May-2025 19:20:36 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:20:36 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:20:36 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:20:36 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\categories.php on line 95
+[08-May-2025 19:20:36 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\categories.php on line 95
+[08-May-2025 19:20:39 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:20:39 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:20:39 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:20:39 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:20:39 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:20:41 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:20:41 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:20:41 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:20:41 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\users.php on line 137
+[08-May-2025 19:20:41 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\users.php on line 137
+[08-May-2025 19:20:42 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:20:42 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:20:42 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:20:42 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\categories.php on line 95
+[08-May-2025 19:20:42 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\categories.php on line 95
+[08-May-2025 19:20:43 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:20:43 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:20:43 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:21:09 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:21:09 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:21:09 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:21:09 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\menu.php on line 130
+[08-May-2025 19:21:09 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\menu.php on line 130
+[08-May-2025 19:21:41 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:21:41 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:21:41 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:21:41 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\menu.php on line 130
+[08-May-2025 19:21:41 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\menu.php on line 130
+[08-May-2025 19:21:53 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:21:53 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:21:53 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:21:53 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\menu.php on line 130
+[08-May-2025 19:21:53 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\menu.php on line 130
+[08-May-2025 19:22:09 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:22:09 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:22:09 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:22:09 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:22:09 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:22:10 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:22:10 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:22:10 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:22:10 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\users.php on line 137
+[08-May-2025 19:22:10 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\users.php on line 137
+[08-May-2025 19:22:11 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:22:11 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:22:11 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:22:11 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\categories.php on line 95
+[08-May-2025 19:22:11 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\categories.php on line 95
+[08-May-2025 19:22:13 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:22:13 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:22:13 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:22:13 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\menu.php on line 130
+[08-May-2025 19:22:13 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\menu.php on line 130
+[08-May-2025 19:22:14 Europe/Berlin] Reports Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 19:22:14 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:22:14 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:22:14 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:23:46 Europe/Berlin] Reports Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 19:23:46 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:23:46 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:23:46 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:23:46 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 128
+[08-May-2025 19:23:46 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 128
+[08-May-2025 19:25:40 Europe/Berlin] Reports Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 19:25:40 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:25:40 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:25:40 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:25:40 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 128
+[08-May-2025 19:25:40 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 128
+[08-May-2025 19:25:43 Europe/Berlin] Reports Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.created_at' in 'where clause'
+[08-May-2025 19:25:43 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:25:43 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:25:43 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:25:43 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 128
+[08-May-2025 19:25:43 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\reports.php on line 128
+[08-May-2025 19:26:01 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:26:01 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:26:01 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:26:01 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:26:01 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:26:04 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:26:04 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:26:04 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:26:11 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:26:11 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:26:11 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:26:11 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:26:11 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:26:14 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:26:14 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:26:14 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:26:14 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\categories.php on line 95
+[08-May-2025 19:26:14 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\categories.php on line 95
+[08-May-2025 19:26:20 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:26:20 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:26:20 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:26:25 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:26:25 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:26:25 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:26:25 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\categories.php on line 95
+[08-May-2025 19:26:25 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\categories.php on line 95
+[08-May-2025 19:26:31 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:26:31 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:26:31 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:26:31 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\menu.php on line 130
+[08-May-2025 19:26:31 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\menu.php on line 130
+[08-May-2025 19:26:35 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:26:35 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:26:35 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:26:38 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:26:38 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:26:38 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:26:38 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\menu.php on line 130
+[08-May-2025 19:26:38 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\menu.php on line 130
+[08-May-2025 19:27:32 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:27:32 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:27:32 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:27:32 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:27:32 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:27:51 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:27:51 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:27:51 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:27:51 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:27:51 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:27:56 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:27:56 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:27:56 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:27:56 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:27:56 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:29:32 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:29:32 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:29:32 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:29:32 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:29:32 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 180
+[08-May-2025 19:30:09 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:30:09 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:30:09 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:30:09 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 177
+[08-May-2025 19:30:09 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 177
+[08-May-2025 19:31:30 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:31:30 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:31:30 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:31:30 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 176
+[08-May-2025 19:31:30 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 176
+[08-May-2025 19:33:22 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:33:22 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:33:22 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:33:22 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 176
+[08-May-2025 19:33:22 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\orders.php on line 176
+[08-May-2025 19:34:05 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[08-May-2025 19:34:05 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:34:05 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[08-May-2025 19:34:05 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\admin\users.php on line 137
+[08-May-2025 19:34:05 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\admin\users.php on line 137
+[11-May-2025 08:29:34 Europe/Berlin] Received cart data: {"cart":{"2":{"name":"Single Chicken Burger","price":40,"quantity":1}}}
+[11-May-2025 08:29:34 Europe/Berlin] Session cart after update: Array
+(
+    [2] => Array
+        (
+            [name] => Single Chicken Burger
+            [price] => 40
+            [quantity] => 1
+        )
+
+)
+
+[11-May-2025 08:30:13 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[11-May-2025 08:30:13 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[11-May-2025 08:30:13 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[11-May-2025 08:30:18 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[11-May-2025 08:30:18 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[11-May-2025 08:30:18 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[15-May-2025 11:42:58 Europe/Berlin] Received cart data: {"cart":{"2":{"name":"Single Chicken Burger","price":40,"quantity":1}}}
+[15-May-2025 11:42:58 Europe/Berlin] Session cart after update: Array
+(
+    [2] => Array
+        (
+            [name] => Single Chicken Burger
+            [price] => 40
+            [quantity] => 1
+        )
+
+)
+
+[15-May-2025 11:43:45 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[15-May-2025 11:43:45 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[15-May-2025 11:43:45 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[15-May-2025 11:43:51 Europe/Berlin] Notification count error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'admin_id' in 'where clause'
+[15-May-2025 11:43:51 Europe/Berlin] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[15-May-2025 11:43:51 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\food-ordering-system\includes\admin_nav.php on line 28
+[19-May-2025 14:20:34 Europe/Berlin] Received cart data: {"cart":{"2":{"name":"Single Chicken Burger","price":40,"quantity":1}}}
+[19-May-2025 14:20:34 Europe/Berlin] Session cart after update: Array
+(
+    [2] => Array
+        (
+            [name] => Single Chicken Burger
+            [price] => 40
+            [quantity] => 1
+        )
+
+)
+
